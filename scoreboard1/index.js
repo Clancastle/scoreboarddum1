@@ -90,7 +90,6 @@ function add3i(){
 }
 console.log(score1)
 
-let game = document.getElementById('nh')
 
 
 function game1(){
@@ -105,7 +104,6 @@ function game1(){
 
     document.getElementById("name1").style.color = "whitesmoke";
     document.getElementById("name2").style.color = "whitesmoke";
-    game.innerText = 'RESET'
 }
 
 
